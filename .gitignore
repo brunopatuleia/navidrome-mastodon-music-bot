@@ -1,0 +1,7 @@
+Ignore Python cache files
+pycache/
+*.pyc
+
+Ignore the secrets file!
+This is VERY IMPORTANT to prevent your passwords from being uploaded to GitHub.
+secrets.py
