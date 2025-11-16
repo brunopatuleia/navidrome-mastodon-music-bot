@@ -5,3 +5,6 @@ pycache/
 Ignore the secrets file!
 This is VERY IMPORTANT to prevent your passwords from being uploaded to GitHub.
 secrets.py
+
+# Ignore posted songs tracking file
+posted_songs.json
